@@ -1,0 +1,29 @@
+ol{
+    background-color: teal;
+    list-style: none;
+    height: 10px;
+ margin-top: 10px;
+ text-align: center;
+  padding: 7px;
+  
+  white-space: normal;
+}
+li{
+    display: inline;
+    color: white;
+    padding: 70px;
+
+  
+}
+div{
+    display: inline;
+   
+}
+h4{
+    text-align: center;
+    margin-top: 25px;
+    background-color: green;
+    height: 100px;
+    color: ivory;
+    text-align: top
+}
